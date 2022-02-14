@@ -56,7 +56,7 @@ The aim of this project is to present an OpenSource library "Babylon.js" used to
 2. Install [Node.js](https://nodejs.org/en/download/)
 3. Open command prompt in downloaded directory
 4. Install packages by `npm install`
-5. To start the server at `http://localhost:8080/`, enter `node server.js'
+5. To start the server at `http://localhost:8080/`, enter `node server.js`
 6. You can add your own `*.glb` objects. 
 
 ## How to Contribute
