@@ -4,6 +4,7 @@
 - [Tech Stack](##Tech-Stack)
 - [Screenshots](##Screenshots)
 - [Local Building](##Local-Building)
+- [How to Contribute](##How to Contribute)
 
 ## Discription 
 The aim of this project is to present an OpenSource library "Babylon.js" used to render graphics. The idea is to show the possibilities offered by the engine and to use it to animate graphics on a sample web service   
@@ -51,4 +52,13 @@ The aim of this project is to present an OpenSource library "Babylon.js" used to
 <img src="/screenshots/imp8.jpg" alt="Vue Expenses Dashnoard" width="100%" />
 
 ## Local Building
+1. Download project
+2. Install [Node.js](https://nodejs.org/en/download/)
+3. Open command prompt in downloaded directory
+4. Install packages by `npm install`
 
+## How to Contribute
+1. Clone repo `git clone https://github.com/simplyvinay/vue-expenses.git`
+2. Create a new branch: `git checkout -b new_branch_name`
+3. Make changes and test
+4. Submit Pull Request with description of changes
