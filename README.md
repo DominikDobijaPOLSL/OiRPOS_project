@@ -42,4 +42,13 @@ The aim of this project is to present an OpenSource library "Babylon.js" used to
 
 <img src="/screenshots/imp4.jpg" alt="Vue Expenses Dashnoard" width="100%" />
 
+<img src="/screenshots/imp5.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
+<img src="/screenshots/imp6.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
+<img src="/screenshots/imp7.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
+<img src="/screenshots/imp8.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
 ## Local Building
+
