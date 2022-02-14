@@ -18,10 +18,28 @@ The aim of this project is to present an OpenSource library "Babylon.js" used to
 ## Screenshots
 ### polyhaven.com
 
-<img src="/screenshots/polyhaven" alt="Vue Expenses Dashnoard" width="100%" />
+<img src="/screenshots/polyhaven.jpg" alt="Vue Expenses Dashnoard" width="100%" />
 
 ### Blender
 
+<img src="/screenshots/blender.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
 ### Implementation
+ 
+1. Home
+
+<img src="/screenshots/imp1.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
+2. Pictures
+
+<img src="/screenshots/imp2.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
+3. Contact
+
+<img src="/screenshots/imp3.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+
+4. *.glb objects
+
+<img src="/screenshots/imp4.jpg" alt="Vue Expenses Dashnoard" width="100%" />
 
 ## Local Building
