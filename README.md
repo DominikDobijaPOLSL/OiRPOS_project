@@ -41,24 +41,26 @@ The aim of this project is to present an OpenSource library "Babylon.js" used to
 
 4. *.glb objects
 
-<img src="/screenshots/imp4.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+<img src="/screenshots/imp4.jpg" alt="Vue Expenses Dashnoard" width="80%" />
 
-<img src="/screenshots/imp5.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+<img src="/screenshots/imp5.jpg" alt="Vue Expenses Dashnoard" width="80%" />
 
-<img src="/screenshots/imp6.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+<img src="/screenshots/imp6.jpg" alt="Vue Expenses Dashnoard" width="80%" />
 
-<img src="/screenshots/imp7.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+<img src="/screenshots/imp7.jpg" alt="Vue Expenses Dashnoard" width="80%" />
 
-<img src="/screenshots/imp8.jpg" alt="Vue Expenses Dashnoard" width="100%" />
+<img src="/screenshots/imp8.jpg" alt="Vue Expenses Dashnoard" width="80%" />
 
 ## Local Building
 1. Download project
 2. Install [Node.js](https://nodejs.org/en/download/)
 3. Open command prompt in downloaded directory
 4. Install packages by `npm install`
+5. To start the server at `http://localhost:8080/`, enter `node server.js`
+6. You can add your own `*.glb` objects. 
 
 ## How to Contribute
-1. Clone repo `git clone https://github.com/simplyvinay/vue-expenses.git`
+1. Clone repo `git clone https://github.com/DominikDobijaPOLSL/OiRPOS_project.git`
 2. Create a new branch: `git checkout -b new_branch_name`
 3. Make changes and test
 4. Submit Pull Request with description of changes
