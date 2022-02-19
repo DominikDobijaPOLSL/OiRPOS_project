@@ -10,10 +10,10 @@
 The aim of this project is to present an OpenSource library "Babylon.js" used to render graphics. The idea is to show the possibilities offered by the engine and to use it to animate graphics on a sample web service   
 
 ## Tech Stack
-- [Babylon.js 4.2](https://www.babylonjs.com/) for web rendering engines
+- [Babylon.js 4.2](https://www.babylonjs.com/) for web rendering engines.
 - [Babylon.js documentation](https://doc.babylonjs.com/)
-- [Poly Haven](https://polyhaven.com/) for finding object  
-- [Blender](https://www.blender.org/) 
+- [Poly Haven](https://polyhaven.com/) for find and download object.
+- [Blender](https://www.blender.org/)
 - [Node.js](https://nodejs.org/en/docs/)
 
 ## Screenshots
@@ -59,8 +59,25 @@ The aim of this project is to present an OpenSource library "Babylon.js" used to
 5. To start the server at `http://localhost:8080/`, enter `node server.js`
 6. You can add your own `*.glb` objects. 
 
+## How to Add Your own `*.glb` file
+### Download file
+You can download the file for example from
+### Prepare file
+1. Prepare your model for export in Blender.
+2. Export the mesh from Blender.
+3. Import and prepare the FBX file in Substance Painter.
+4. Export the glTF file from Substance Painter.
+5. Create a * file.
+
+[Link to instruction](https://help.shopify.com/en/partners/resources/creating-media/3d-models/creating-3d-models/blender)
+
+### Add file to source path directory
+1. Add creating`*.glb` file to source path directory.
+2. Modyfy `.html` files (menu) to create a possibility to open your  `*glb` file.
+
+
 ## How to Contribute
-1. Clone repo `git clone https://github.com/DominikDobijaPOLSL/OiRPOS_project.git`
-2. Create a new branch: `git checkout -b new_branch_name`
-3. Make changes and test
-4. Submit Pull Request with description of changes
+1. Clone repo `git clone https://github.com/DominikDobijaPOLSL/OiRPOS_project.git`.
+2. Create a new branch: `git checkout -b new_branch_name`.
+3. Make changes and test.
+4. Submit Pull Request with description of changes.
