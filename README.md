@@ -4,7 +4,8 @@
 - [Tech Stack](##Tech-Stack)
 - [Screenshots](##Screenshots)
 - [Local Building](##Local-Building)
-- [How to Contribute](##How to Contribute)
+- [How to Contribute](##How-to-Contribute)
+- [How to Add Your own *.glb file](##How-to-Add-Your-own-*.glb-file)
 
 ## Discription 
 The aim of this project is to present an OpenSource library "Babylon.js" used to render graphics. The idea is to show the possibilities offered by the engine and to use it to animate graphics on a sample web service   
@@ -68,7 +69,7 @@ You can download file for example from [Poly Haven](https://polyhaven.com/)
 2. Export the mesh from Blender.
 3. Import and prepare the FBX file in Substance Painter.
 4. Export the glTF file from Substance Painter.
-5. Create a * file.
+5. Create a `*.glb` file.
 
 [Link to instruction](https://help.shopify.com/en/partners/resources/creating-media/3d-models/creating-3d-models/blender)
 
