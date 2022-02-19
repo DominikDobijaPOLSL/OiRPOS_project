@@ -61,7 +61,8 @@ The aim of this project is to present an OpenSource library "Babylon.js" used to
 
 ## How to Add Your own `*.glb` file
 ### Download file
-You can download the file for example from
+You can download file for example from [Poly Haven](https://polyhaven.com/)
+
 ### Prepare file
 1. Prepare your model for export in Blender.
 2. Export the mesh from Blender.
